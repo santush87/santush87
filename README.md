@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Aleksandrov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria, but now located in Berlin :)</h3>
+<h3 align="center">A passionate backend developer from Bulgaria, but now located in Berlin</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/11-29-2017/DW588u.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santush87&label=Profile%20views&color=0e75b6&style=flat" alt="santush87" /> </p>
