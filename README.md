@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santush87&label=Profile%20views&color=0e75b6&style=flat" alt="santush87" /> </p>
 
-- 🌱 I'm a **Java** programmer with a passion for solving problems and crafting unique solutions. For me, coding isn't just a job, it's a thrilling journey of exploration and discovery.
+- 🌱 I'm a **Java** Fullstack Developer with a passion for solving problems and crafting unique solutions. For me, coding isn't just a job, it's a thrilling journey of exploration and discovery.
 
 - 💬 Ask me about **Java**
 
