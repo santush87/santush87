@@ -6,8 +6,6 @@
 
 - 🌱 As a **Java Full-Stack Developer**, I specialize in crafting robust and scalable web applications using a combination of front-end and back-end technologies. With expertise in Java, Spring Boot, and various front-end frameworks, I leverage my skills to create intuitive and efficient solutions. Passionate about delivering high-quality code and collaborating within dynamic teams, I consistently strive to push the boundaries of innovation in web development.
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **martin.aleksandrov87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
