@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santush87&label=Profile%20views&color=0e75b6&style=flat" alt="santush87" /> </p>
 
-- 🌱 I'm a **Java Fullstack Developer** with a passion for solving problems and crafting unique solutions. For me, coding isn't just a job, it's a thrilling journey of exploration and discovery.
+- 🌱 As a **Java Full-Stack Developer**, I specialize in crafting robust and scalable web applications using a combination of front-end and back-end technologies. With expertise in Java, Spring Boot, and various front-end frameworks, I leverage my skills to create intuitive and efficient solutions. Passionate about delivering high-quality code and collaborating within dynamic teams, I consistently strive to push the boundaries of innovation in web development.
 
 - 💬 Ask me about **Java**
 
