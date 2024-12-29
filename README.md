@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Aleksandrov</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bulgaria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/11-29-2017/DW588u.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/santush87/assets/refs/heads/main/CodingImage.webp">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=santush87&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
